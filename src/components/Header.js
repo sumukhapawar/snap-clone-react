@@ -30,11 +30,11 @@ function Header() {
                                     <li><a class="dropdown-item" href="#">Blog</a></li>
                                 </ul>
                             </div>
-                            <li className="nav-item nav-link m-2">
-                                Careers
+                            <li className="nav-item m-2">
+                                <a className="nav-link" href="https://pranx.com/winxp-update/">Careers</a>
                             </li>
                             <li className="nav-item nav-link m-2">
-                                About
+                                <a className="nav-link" href="https://pranx.com/static-tv-noise/">About</a>
                             </li>
                         </ul>
                         <ul className="navbar-nav ms-auto">
